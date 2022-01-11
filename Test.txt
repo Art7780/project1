@@ -1,4 +1,4 @@
 
-sample file to test the PUSh access
+sample file to test the PUSh access & account renaming
 
 rakesh initial checkin
